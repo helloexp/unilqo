@@ -1,0 +1,312 @@
+*{padding: 0px;
+margin: 0px;}
+
+.hei{height: 42px;}
+.wid{width: 1280px;}
+
+.engine{background: white;
+           
+	margin: 0px auto;}
+.gine{width: 846px;
+         float: right;}
+.gine>a{font-size:14px ;
+              color: #1b1b1b;
+              display: inline-block;
+              margin: 0px 1px;
+              line-height: 42px;}
+.gine>span{font-size: 14px;
+	                color:#C0C0C0 ;
+	                display: inline-block;
+	                margin: 0px 5px;}
+.buy{position: relative;}
+.buybox{position:absolute;
+width:325px;
+height:235px;
+background: white;
+display: none;
+border: 1px solid #CDC8C8;}	
+.buy:hover .buybox{display: block;}
+.triangle{width: 0px;
+height: 0px;
+border-bottom: 10px solid #CDC8C8;
+border-left: 10px solid transparent;
+border-right: 10px solid transparent;
+margin: -10px 38px;}
+.app{width:325px;
+height: 146px;
+margin: 10px 0px;}
+.appa{width: 161.5px;
+height: 146px;
+margin: 22px 22px;}
+.appb{width: 161.5px;
+height: 146px;
+	float: right;
+	margin: -158px -178px;}
+.trianglebox>p{font-size: 14px;
+padding-top: 16px;
+padding-left: 3px;}
+.znss{width: 250px;
+float: right;
+line-height: 42px;}
+.znss>a{font-size:14px;
+	color:#1b1b1b;}
+.nav{height: 50px;
+             margin: 0px auto;}
+  .logo{width: 50px;
+           height: 50px;}
+    .navdress{width:545px;
+                      height:50px;
+                      margin: -50px 0px;
+    	              text-align: center;
+    	              line-height: 50px;}
+.navdress>span{margin: 0px 6px;
+    	color:#C0C0C0 ;}	        
+.navdress>a{font-size: 14px;
+	                 font-weight: bold;
+                      color: black;}      
+.navright{width: 685px;
+                 height:50px;
+                float: right;
+                 margin:0px auto;
+                 text-align: center;
+                 line-height: 50px;
+                 color:#C0C0C0 ;}
+.firm{width: 457px;
+height: 50px;
+background: #A1A1A1;
+ margin: 0px 10px;}
+.firm>a{display: inline-block;
+margin: 0px 15px;
+font-weight: bold;
+color: white;}
+.navr{width: 228px;
+         height: 50px;
+         float: right;
+         margin-top: -50px;}
+.shop{width: 99px;
+        background: #666666;}
+.shop>a{color: white;
+	     font-weight: bold;}
+.take{width: 129px;
+         background: #3C3C3C;
+	     float: right;
+	     margin-top: -50px;}
+ .take>a{color: white;
+	font-weight: bold;}
+.wheel{height: 625px;
+	margin: 30px auto;}
+.wheeltop{height: 53px;
+background: red;}
+.topleft{display:inline-block;
+	width: 40px;
+font-size: 60px;
+color: white;
+line-height: 53px;
+text-align: center;
+position: absolute;}
+.topb{display:inline-block;
+	width: 1200px;
+font-size: 22px;
+color: white;
+line-height: 53px;
+text-align: center;
+margin-left: 40px;}	
+.topright{display:inline-block;
+	width: 40px;
+font-size: 60px;
+color: white;
+line-height: 53px;
+text-align: center;
+float: right;}
+.wheelbottom{height: 573px;
+overflow: hidden;
+    margin-top: 6px}
+	ul{
+			width: 5120px;
+			height: 573px;
+			animation: jpg 10s infinite;}
+		
+		li{list-style: none;
+			float: left;}
+			
+			@keyframes jpg{
+				0%,21%{margin-left: 0px;}
+				26%,47%{margin-left: -1280px;}
+				52%,73%{margin-left: -2560px;}
+				78%,100%{margin-left: -3840px;}
+				
+				}
+.four{height: 103px;
+margin: 0px auto;}
+.fourtop{width: 320px;
+	height: 103px;
+float: left;
+position: relative;}
+.four>div>p{width: 66px;
+height: 40px;
+margin: 0px 118px;
+line-height: 40px;
+margin-top: 25px;
+font-weight: bold;}
+.lump{width: 288px;
+height: 28px;
+text-align: center;
+float: left;
+margin-top: 5px;}
+.lump>a{border-bottom: 2px solid #dadada;
+font-size: 14px;
+font-weight: bold;
+margin-left: 20px;
+padding-bottom: 2px;
+color: #000000;}
+.groom{height: 716px;
+margin: 0px auto;
+margin-top: 40px;}
+.fonttopleft{font-size: 30px;
+font-weight: bold;
+position: relative;}
+.classify{height: 49px;
+position: relative;
+margin: 20px 0px;}
+.classify>a{
+display:inline-block;
+width: 320px;
+height: 45px;
+float:left ;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+border-bottom: 4px solid #dadada ;
+padding-bottom: 8px;
+color: #ABABAB;}
+.classify>a:hover{color: black;
+	border-color: #378694;}
+.show{margin: 34px 0px;}
+.set{height: 652px;
+margin: 0px auto;
+margin-top: 20px;}
+.setb>a{margin-top: -654px;
+	float: right;}
+.mustbuy{height: 716px;
+margin: 0px auto;
+margin-top: 40px;}
+.time{height: 716px;
+margin: 0px auto;}
+.xian{font-size: 30px;
+font-weight: bold;
+position: relative;}
+.wmkb{height: 49px;
+position: relative;
+margin: 20px 0px;}
+.wmkb>a{display:inline-block;
+width: 320px;
+height: 45px;
+float:left ;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+border-bottom: 4px solid #dadada ;
+padding-bottom: 8px;
+color: #ABABAB;}
+.wmkb>a:hover{
+	color: black;
+	border-color: #378694;
+	}
+.labhot{height: 972px;
+margin: 40px auto;
+}	
+.eightlab{
+	height: 828px;
+margin: 0px auto;
+margin-top: 28px;
+}
+.eightlab>a{
+	display: inline-block;
+	width:320px;
+	height: 414px;
+	float: left;
+	}
+.eightlab>a:hover{
+	transform:translateY(-5px) ;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
+.utset{
+margin: 0px auto;
+margin-top: 50px;
+}	
+.ut{
+font-size: 30px;
+font-weight: bold;
+margin-top: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.utbottom{
+	height: 652px;
+	padding-top: 15px;
+}
+.utbottom>p>a>img{
+	width: 620px;
+	height: 652px;
+}	
+.utbottom>p:nth-child(1){
+	float: left;
+}	
+.utbottom>p:nth-child(2){
+	float: right;
+}	
+.stature{height: 153px;
+	margin: 12px auto;}
+.guide{height:105px;
+text-align: center;
+border-bottom: 1px solid #DADADA;
+padding-bottom:20px;}
+.guidea{display: inline-block;
+	height: 24px;
+margin-top: 46px;
+font-size: 18px;
+font-weight: bold;}
+.guideb{height: 24px;
+margin-top:10px;}
+.guideb>a{color: black;
+border-bottom: 1px solid black;}
+.robot {
+	margin: 0 auto;
+}
+.zhang{
+	margin: 0 auto;
+}
+.fot{
+	height: 50px;
+	background:black ;
+	margin: 0 auto;
+	margin-top: 20px;
+    box-sizing: border-box;
+}
+.fotpic{
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+.fotfont{
+	width: 1230px;
+	height: 50px;
+	float: right;
+}
+.fotfont>a{
+	          font-size:14px ;
+              color: white;
+              display: inline-block;
+              margin: 0px 86px;
+              line-height: 50px;
+	 }
+	 .fotfont>a:hover{
+	 	color: red;
+	 }
+.fotfont>span{
+	           font-size:20px ;
+              color: white;
+              display: inline-block;
+              margin: 0px 1px;
+              line-height: 42px;
+}
